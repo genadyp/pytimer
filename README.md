@@ -42,3 +42,10 @@ def collect(...):
   """collect execution time of the wrapped method"""
   ...
 ```
+
+### Inspirations
+
+https://docs.python.org/3/library/timeit.html
+https://github.com/ramonsaraiva/timy
+
+
