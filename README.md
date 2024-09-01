@@ -46,6 +46,7 @@ def collect(...):
 ### Inspirations
 
 https://docs.python.org/3/library/timeit.html
+
 https://github.com/ramonsaraiva/timy
 
 
